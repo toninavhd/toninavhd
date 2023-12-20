@@ -1,4 +1,4 @@
-![ToninavHD](https://raw.githubusercontent.com/toninavhd/img_Presentacion/main/toninavmulti.png?token=GHSAT0AAAAAACLUU55C7GBSSS4RNODZD5R4ZMC255A)
+![ToninavHD](https://github.com/toninavhd/img_Presentacion/blob/main/toninavmulti.png)
 ### Antonio Navarro Hernández
 <!--
 **toninavhd/toninavhd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
