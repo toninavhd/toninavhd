@@ -1,4 +1,4 @@
-![ToninavHD](https://64.media.tumblr.com/168cd599b1a5a1bb6bf2c4d77538ceba/45461373ecd54ddc-3a/s640x960/f51a8f47b590651f3cf7f857f811cc80af649305.pnj)
+
 ![ToninavHD](https://64.media.tumblr.com/7ecf3f778ce1b2012747536063b9026e/765eb1dc2b3ac298-fd/s640x960/f5f7c3eb221f0740b262d263b37cd95c99aabf76.pnj)
 
 <center><h1> ‎‧₊˚✧ Ａｎｔｏｎｉｏ　Ｎａｖａｒｒｏ ✧˚₊‧ </h1></center>
