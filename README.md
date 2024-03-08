@@ -7,9 +7,7 @@
 
 
 <img align="center" src="https://64.media.tumblr.com/b82b2be1bad018cbc39231ca0477ff68/89aadfac46851426-e8/s500x750/dcbd50cf484c3473a3b7a107535b20dde6b797fd.gifv"  width="300"
-  height="300" />
-
-<img align="left" src="https://64.media.tumblr.com/2f3b4fd3c076ea82e55d88e4001e6270/52278e7a5f3b1d08-55/s640x960/246217e83eef32aab6614faf4a092ba7a6273938.jpg"  width="300"
+  height="300" /><img align="center" src="https://64.media.tumblr.com/2f3b4fd3c076ea82e55d88e4001e6270/52278e7a5f3b1d08-55/s640x960/246217e83eef32aab6614faf4a092ba7a6273938.jpg"  width="300"
   height="300" />
 
 
