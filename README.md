@@ -9,6 +9,7 @@
  <h3 align="left"> <img width="30" src="https://web.archive.org/web/20090728144812/http://www.geocities.com/nessgaming_domain/Kirby_Hi.gif"/>  ﻿ｈｅｌｌｏ  ｗｏｒｌｄ！ </h3>
   <p> Hi! I'm Toni, someone who loves to create things such as graphic desings, music, videos, photography and 3D stuff.
    Currently, I'm studying Web Development where I'm learning HTML5, CSS3, Python and SQLite. </p>
+   
 
 
 <h3 align="left">Graphic Desing Tools:</h3>
@@ -24,9 +25,13 @@
  </p>
  
  <h3 align="left"> Programming Languages:</h3>
- <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+ <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+ <h3 align="left"> Others:</h3>
+ <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>   
 <br>
 <h3 align="left"><img width="25" src="https://web.archive.org/web/20091027013712im_/http://it.geocities.com/pdroghi/picchio.gif"/> Contact: </h3>
+
+
 <p align="left">toninavhd@gmail.com
 </p>
 
