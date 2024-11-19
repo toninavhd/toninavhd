@@ -16,12 +16,9 @@
  <h3 align="left"> <img width="30" src="https://web.archive.org/web/20090728144812/http://www.geocities.com/nessgaming_domain/Kirby_Hi.gif"/>  ﻿ｈｅｌｌｏ  ｗｏｒｌｄ！ </h3>
   <p> Hi! I'm Toni, someone who loves to create things such as graphic desings, music, videos, photography and 3D stuff.
    Currently, I'm studying Web Development where I'm learning HTML5, CSS3, Python, SQLite and SQLserver. </p>
-
+<br>
 <p><h2 align='center'><img width='100' src='https://64.media.tumblr.com/81e3223e47b16730c35139fb189f82d5/6f50ff0ff4b01318-37/s400x600/4110a3eca9b557af7dc1bb33e93ecb801e85248f.gifv'>
 <img width='322' src='https://github-readme-stats.vercel.app/api?username=toninavhd&theme=dark&hide_border=false&include_all_commits=false&count_private=false'> <img src ='https://github-readme-stats.vercel.app/api/top-langs/?username=toninavhd&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact'> <img width='100' src='https://64.media.tumblr.com/81e3223e47b16730c35139fb189f82d5/6f50ff0ff4b01318-37/s400x600/4110a3eca9b557af7dc1bb33e93ecb801e85248f.gifv'> </h2>
-<br>
-</p>
-
 </p>
 <h3 align="left">Graphic Desing Tools:</h3>
 <p alingn="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>
