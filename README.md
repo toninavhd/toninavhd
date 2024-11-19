@@ -15,7 +15,7 @@
    Currently, I'm studying Web Development where I'm learning HTML5, CSS3, Python, SQLite and SQLserver. </p>
 
 <p><h2 align='center'><img width='100' src='https://64.media.tumblr.com/81e3223e47b16730c35139fb189f82d5/6f50ff0ff4b01318-37/s400x600/4110a3eca9b557af7dc1bb33e93ecb801e85248f.gifv'>
-<img width='320' src='https://github-readme-stats.vercel.app/api?username=toninavhd&theme=dark&hide_border=false&include_all_commits=false&count_private=false'><img src ='https://github-readme-stats.vercel.app/api/top-langs/?username=toninavhd&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact'> <img width='100' src='https://64.media.tumblr.com/81e3223e47b16730c35139fb189f82d5/6f50ff0ff4b01318-37/s400x600/4110a3eca9b557af7dc1bb33e93ecb801e85248f.gifv'> </h2>
+<img width='322' src='https://github-readme-stats.vercel.app/api?username=toninavhd&theme=dark&hide_border=false&include_all_commits=false&count_private=false'> <img src ='https://github-readme-stats.vercel.app/api/top-langs/?username=toninavhd&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact'> <img width='100' src='https://64.media.tumblr.com/81e3223e47b16730c35139fb189f82d5/6f50ff0ff4b01318-37/s400x600/4110a3eca9b557af7dc1bb33e93ecb801e85248f.gifv'> </h2>
 </p>
 
 </p>
