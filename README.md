@@ -19,9 +19,10 @@ Currently, I'm studying Web Development where I'm learning <b>HTML5, CSS3, Pytho
 <p>Actually I use graphic desing softwares and 3D softwares like <b>Adobe Photoshop, Illustrator, Cinema4D, Blender</b> and more. I'm open minded so always I look to new stuff and try to find my own ways because it's important to be up to date ! 😎</p>
 <p>I use DAWs like <b>FLStudio, Audacity, Ableton Live</b> and <b>Studio One</b> but I mostly use FLstudio because I've been using it since I was a (pre)teenager so I had a few years of experience 🤣🤣🤣 </p>
 <br>
-<p><h2 align='center'><img width='100' src='https://64.media.tumblr.com/81e3223e47b16730c35139fb189f82d5/6f50ff0ff4b01318-37/s400x600/4110a3eca9b557af7dc1bb33e93ecb801e85248f.gifv'>
-<img width='322' src='https://github-readme-stats.vercel.app/api?username=toninavhd&theme=dark&hide_border=false&include_all_commits=false&count_private=false'> <img src ='https://github-readme-stats.vercel.app/api/top-langs/?username=toninavhd&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact'> <img width='100' src='https://64.media.tumblr.com/81e3223e47b16730c35139fb189f82d5/6f50ff0ff4b01318-37/s400x600/4110a3eca9b557af7dc1bb33e93ecb801e85248f.gifv'> </h2>
+<p><h3 align='center'><img width='100' src='https://64.media.tumblr.com/81e3223e47b16730c35139fb189f82d5/6f50ff0ff4b01318-37/s400x600/4110a3eca9b557af7dc1bb33e93ecb801e85248f.gifv'>
+<img width='322' src='https://github-readme-stats.vercel.app/api?username=toninavhd&theme=dark&hide_border=false&include_all_commits=false&count_private=false'> <img src ='https://github-readme-stats.vercel.app/api/top-langs/?username=toninavhd&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact'> <img width='100' src='https://64.media.tumblr.com/81e3223e47b16730c35139fb189f82d5/6f50ff0ff4b01318-37/s400x600/4110a3eca9b557af7dc1bb33e93ecb801e85248f.gifv'> </h3>
 </p>
+<br>
 <h3 align="center">
 <img width="25" src="https://web.archive.org/web/20091027013712im_/http://it.geocities.com/pdroghi/picchio.gif"/> Contact: </h3>
 
