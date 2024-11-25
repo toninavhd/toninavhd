@@ -16,7 +16,7 @@
  <h3 align="left"> <img width="30" src="https://web.archive.org/web/20090728144812/http://www.geocities.com/nessgaming_domain/Kirby_Hi.gif"/>  ﻿ｈｅｌｌｏ  ｗｏｒｌｄ！ </h3>
   <p> Hi! I'm Toni, someone who loves to create things such as graphic desings, music, videos, photography and 3D stuff.
 Currently, I'm studying Web Development where I'm learning <b>HTML5, CSS3, Python, SQLite</b> and <b>SQLserver</b>. </p>
-<p>Actually I use graphic desing softwares and 3D softwares like <b>Adobe Photoshop, Illustrator, Cinema4D, Blender</b> and more. I'm open minded so always I look to new stuff and try to find my own ways because it's important to be up to date ! 😎</p>
+<p>Actually I use graphic desing softwares and 3D softwares like <b>Adobe Photoshop, Illustrator, Cinema4D, Blender</b> and more. I'm open minded so always I looking for new stuff because it's important to be up to date ! 😎</p>
 <p>I use DAWs like <b>FLStudio, Audacity, Ableton Live</b> and <b>Studio One</b> but I mostly use FLstudio because I've been using it since I was a (pre)teenager so I had a few years of experience 🤣🤣🤣 </p>
 <br>
 <p><h3 align='center'><img width='100' src='https://64.media.tumblr.com/81e3223e47b16730c35139fb189f82d5/6f50ff0ff4b01318-37/s400x600/4110a3eca9b557af7dc1bb33e93ecb801e85248f.gifv'>
